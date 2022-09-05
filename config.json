@@ -1,13 +1,13 @@
 {
 	"bot": {
-		"id": "",
-		"prefix": "",
-		"secret": "",
+		"id": "580842332342059021",
+		"prefix": "!",
+		"secret": "6y-BtOb_GBHOS5ragAZ1RbjHKDMHQDQY",
 		"status": "dnd",
-		"url": "",
+		"url": "vortex-website-production.up.railway.app↗",
 		"production": true
 	},
 	"app": {
-		"port": 6969
+		"port": process.env.PORT
 	}
 }
